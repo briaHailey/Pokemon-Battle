@@ -1,0 +1,17 @@
+9
+Take Down	6
+Bubble Beam	7
+Hyperbeam	10
+Thunderbolt	5
+Flamethrower	4
+Counter	3
+Confusion	3
+Razor Leaf	4
+Poison Sting	5
+6
+Charizard	Fire	17	10	Flamethrower
+Gyarados	Water	25	16	Hyperbeam
+Bewear	Fighting	15	10	Take Down
+Raichu	Electric	27	14	Thunderbolt
+Wobbuffet	Psychic	14	11	Counter
+Bayleef	Grass	18	12	Razor Leaf

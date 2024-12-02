@@ -1,0 +1,4 @@
+Raichu	23
+Gyarados	21
+Bayleef	14
+Bewear	0

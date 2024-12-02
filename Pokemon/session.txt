@@ -1,0 +1,16 @@
+15
+Charizard	Flamethrower	Bayleef	16
+Wobbuffet	Counter	Gyarados	4
+Raichu	Thunderbolt	Bewear	8
+Bayleef	Razor Leaf	Wobbuffet	12
+Gyarados	Hyperbeam	Charizard	13
+Bewear	Take Down	Raichu	10
+Wobbuffet	Mirror Coat	Bayleef	17
+Charizard	Flamethrower	Raichu	14
+Bayleef	Razor Leaf	Gyarados	18
+Gyarados	Hyperbeam	Bewear	16
+Bewear	Take Down	Wobbuffet	12
+Raichu	Thunderbolt	Charizard	11
+Gyarados	Hyperbeam	Wobbuffet	15
+Bewear	Take Down	Charizard	18
+Raichu	Thunderbolt	Bewear	13
